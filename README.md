@@ -14,7 +14,7 @@ O projeto está organizado por categorias de comandos:
     * `/create`: Criação de tabelas e objetos.
     * `/modify`: Alteração de estrutura (`ALTER`, `DROP` de colunas, `TRUNCATE`).
 * **`/dcl`**: Exemplos de *Data Control Language* (`GRANT`, `REVOKE`).
-* **`/dml`**: Exemplos de *Data Manipulation Language* (em breve).
+* **`/dml`**: Exemplos de *Data Manipulation Language* (`INSERT`, `UPDATE`, `DELETE`).
 
 ## 🛠️ Como usar
 
